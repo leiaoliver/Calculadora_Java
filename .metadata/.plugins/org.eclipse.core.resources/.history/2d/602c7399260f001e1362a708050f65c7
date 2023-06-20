@@ -1,0 +1,18 @@
+public class calculadora {
+		public static int soma(int num1, int num2) {
+	        return num1 + num2;
+	    }
+	   
+	  
+	public static void main(String[]args) {
+		
+		System.out.println(soma(1,2));
+	}
+	   
+	}
+
+//Um método chamado "soma" que receba dois inteiros como parâmetros e retorne a soma desses números.
+//Um método chamado "subtracao" que receba dois inteiros como parâmetros e retorne a subtração do segundo número do primeiro número.
+//Um método chamado "multiplicacao" que receba dois inteiros como parâmetros e retorne o produto desses números.
+//Um método chamado "divisao" que receba dois inteiros como parâmetros e retorne o resultado da divisão do primeiro número pelo segundo número.
+	 

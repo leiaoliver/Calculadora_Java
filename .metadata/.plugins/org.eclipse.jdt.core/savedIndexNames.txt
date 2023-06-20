@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+/home/leia/Documentos/Fiap/Revisão/CalculadoraJava/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+695073915.index
+1151862726.index
