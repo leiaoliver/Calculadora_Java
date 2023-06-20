@@ -19,10 +19,10 @@ public class calculadora {
 	public static void main(String[]args) {
 	    Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Digite o número 1: ");
+        System.out.print("Digite o primeiro número: ");
         int numero1 = scanner.nextInt();
 
-        System.out.print("Digite o número 2: ");
+        System.out.print("Digite o segundo número: ");
         int numero2 = scanner.nextInt();
         
         System.out.print("Qual operação você irá realizar? (1 - soma, 2 - subtração, 3 - divisão, 4 - multiplicação): ");
